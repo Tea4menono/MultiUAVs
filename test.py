@@ -11,7 +11,6 @@ list_2 = [
     1, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1
 ]
 
-# Grouping the sublists based on corresponding values in list_2
 group_1 = []
 group_0 = []
 
